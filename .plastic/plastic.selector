@@ -1,0 +1,4 @@
+repository "GameJam@leegohigh@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
